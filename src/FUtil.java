@@ -1,5 +1,11 @@
 
 import java.io.File;
+/**
+ * Verifica si un archivo existe D
+ *
+ * @param filename El nombre del archivo a buscar.
+ * @return true si el archivo existe, false en caso contrario.
+ */
 
 public class FUtil {
     public static boolean existe(String filename) {
